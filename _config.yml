@@ -1,5 +1,15 @@
 title: Heart Script Studio
-description: AI-powered blog, design studio, and digital products
-baseurl: ""
-url: "https://YOUR_USERNAME.github.io"
-theme: minima
+description: "Creative AI blog and studio"
+baseurl: "/heartscript-blog"
+url: "https://abiy227.github.io"
+
+# Navigation (optional depending on your theme)
+nav:
+  - title: "Home"
+    url: "/"
+  - title: "Services"
+    url: "/services/"
+  - title: "Request"
+    url: "/request/"
+  - title: "Products"
+    url: "/products/"
