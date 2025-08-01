@@ -4,11 +4,11 @@ title: Services
 permalink: /services/
 ---
 
-## ✨ Our Services
+## ✨ AI-Powered Services
 
-We offer:
-- Logo & brand design
-- AI-powered thumbnails
-- Infographics
-- Research consulting
-- Content creation
+- AI blog writing
+- Social media captions
+- Custom ChatGPT-powered bots
+- PDF and eBook formatting
+
+📩 Want something custom? Go to the [Request](./request/) page.
