@@ -4,6 +4,6 @@ title: About
 permalink: /about/
 ---
 
-## 👤 About Heart Script Studio
+# About
 
-A place for creatives and dreamers to bring their ideas to life with the help of AI.
+Heart Script Studio is your home for creativity, AI tools, and practical inspiration.

@@ -1,11 +1,5 @@
-# Heart Script Studio Blog
+# Heart Script Blog
 
-This is a personal blog + studio page built with Jekyll and GitHub Pages.
+A GitHub Pages-powered blog + creative studio site for Heart Script Studio.
 
-## Pages
-- Home
-- Services
-- Request Form
-- Products
-# heartscript-blog
-AI-powered blog, creative studio, and digital store
+Live site: [https://abiy227.github.io/heartscript-blog](https://abiy227.github.io/heartscript-blog)
