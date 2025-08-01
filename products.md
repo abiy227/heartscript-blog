@@ -3,6 +3,11 @@ layout: default
 title: Products
 permalink: /products/
 ---
+<h1>Digital Products</h1>
+<p>Browse and purchase our ready-made products including templates, prompts, and tools.</p>
+
+<p><a href="{{ site.baseurl }}/request/">Request Custom Product</a></p>
+
 
 ## 🛍️ Digital Products
 
