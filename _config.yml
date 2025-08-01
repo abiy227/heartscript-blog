@@ -1,15 +1,11 @@
 title: Heart Script Studio
-description: "Creative AI blog and studio"
-baseurl: "/heartscript-blog"
+description: >- 
+  Welcome to Heart Script Studio — AI-powered creative services and products.
+baseurl: "/heartscript-blog" # Match this to your repository name
 url: "https://abiy227.github.io"
 
-# Navigation (optional depending on your theme)
-nav:
-  - title: "Home"
-    url: "/"
-  - title: "Services"
-    url: "/services/"
-  - title: "Request"
-    url: "/request/"
-  - title: "Products"
-    url: "/products/"
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
