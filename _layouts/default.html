@@ -1,17 +1,29 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>{{ page.title }}</title>
+  <title>{{ page.title | default: site.title }}</title>
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/style.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <body>
-  <nav>
-    <a href="{{ site.baseurl }}/">Home</a> |
-    <a href="{{ site.baseurl }}/services/">Services</a> |
-    <a href="{{ site.baseurl }}/request/">Request</a> |
-    <a href="{{ site.baseurl }}/products/">Products</a>
-  </nav>
-  <hr>
+
+<header>
+  <h1>Heart Script Studio</h1>
+  <p>Explore AI-powered services, tutorials & digital products</p>
+</header>
+
+<nav>
+  <a href="{{ site.baseurl }}/">Home</a>
+  <a href="{{ site.baseurl }}/services/">Services</a>
+  <a href="{{ site.baseurl }}/request/">Request</a>
+  <a href="{{ site.baseurl }}/products/">Products</a>
+  <a href="{{ site.baseurl }}/about/">About</a>
+</nav>
+
+<div class="container">
   {{ content }}
+</div>
+
 </body>
 </html>

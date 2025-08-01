@@ -6,12 +6,10 @@ permalink: /products/
 
 # Digital Products
 
-Browse our ready-made digital goods:
+Explore downloadable, ready-to-use products:
 
-- AI prompt packs
-- Journaling templates
-- Motivational quote bundles
-- Printable wallpapers
+- **Faith-Based Visual Quote Packs**
+- **Printable Journaling Templates**
+- **AI Wallpapers for Mobile/Desktop**
 
-**Need something custom?**  
-👉 <a href="{{ site.baseurl }}/request/">Request Custom Product</a>
+[Request a custom product →]({{ site.baseurl }}/request/)

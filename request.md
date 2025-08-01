@@ -4,23 +4,20 @@ title: Request
 permalink: /request/
 ---
 
-# Request a Custom Service
+# Submit a Request
 
-Fill out the form below to request a personalized service or product.
+Have something in mind? Fill out this form and we’ll get in touch!
 
 <form action="https://formspree.io/f/meozzbnk" method="POST">
-  <label>
-    Your Name:<br>
+  <label>Your Name:<br>
     <input type="text" name="name" required>
   </label><br><br>
 
-  <label>
-    Your Email:<br>
-    <input type="email" name="email" required>
+  <label>Your Email:<br>
+    <input type="email" name="_replyto" required>
   </label><br><br>
 
-  <label>
-    What do you need?<br>
+  <label>What service/product do you want?<br>
     <textarea name="message" rows="5" required></textarea>
   </label><br><br>
 

@@ -4,15 +4,15 @@ title: Services
 permalink: /services/
 ---
 
-# Services
+# Our Services
 
-Explore our AI-powered creative services:
+We offer the following creative services:
 
-- Logo design
-- Social media graphics
-- YouTube thumbnails
-- Infographic creation
-- and more...
+- 🎨 AI-Powered Image Packs
+- ✍️ Personalized Quote Design
+- 📄 Ebook & PDF Layout
+- 💡 Creative Content Strategy
 
-**Need something custom?**  
-👉 <a href="{{ site.baseurl }}/request/">Request a Service</a>
+Want something custom?
+
+[Request a service →]({{ site.baseurl }}/request/)
