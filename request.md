@@ -1,25 +1,37 @@
 ---
 layout: page
-title: "Client Request"
+title: Request
 permalink: /request/
 ---
 
-# 📝 Request a Custom AI Service
+# ✍️ Request a Custom Design or Service
 
-Let us know what you need — we’ll respond within 24–48 hours!
+Have a custom project in mind? Fill out the form below and let’s bring your vision to life.
 
-## 📧 How to Reach Us
+<form action="https://formspree.io/f/YOUR_FORM_ID" method="POST">
+  <label>Your Name:</label><br>
+  <input type="text" name="name" required><br><br>
 
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- Instagram DM: [@HeartScriptStudio](https://instagram.com/HeartScriptStudio)
+  <label>Your Email:</label><br>
+  <input type="email" name="_replyto" required><br><br>
 
-## 🛠️ Request Form
+  <label>Select a Service:</label><br>
+  <select name="service" required>
+    <option value="">-- Please choose an option --</option>
+    <option value="Logo Design">Logo Design</option>
+    <option value="Thumbnail Creation">Thumbnail Creation</option>
+    <option value="Infographic">Infographic</option>
+    <option value="AI Image/Quote">AI Quote Image</option>
+    <option value="Custom Writing">Custom Writing</option>
+    <option value="Other">Other</option>
+  </select><br><br>
 
-Coming soon: An interactive request form!  
-Until then, email us your request with:
-- Your name
-- Type of service (logo, script, etc.)
-- Your vision/idea
-- Any deadline
+  <label>Project Details:</label><br>
+  <textarea name="message" rows="6" required></textarea><br><br>
 
-> ✅ We'll reply with a proposal, timeline, and price.
+  <button type="submit">Send Request</button>
+</form>
+
+---
+
+📬 Once your request is submitted, I’ll respond to you within 1–2 business days.

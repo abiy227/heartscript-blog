@@ -1,27 +1,34 @@
 ---
 layout: page
-title: "Digital Products"
+title: Products
 permalink: /products/
 ---
 
-# 📚 Digital Products by Heart Script Studio
+# 🛒 Digital Products
 
-Discover our premium AI-enhanced digital tools, templates, and content packs.
+Explore my collection of useful digital products — made for creators, learners, and dreamers.
 
-## ✨ Featured Products
+## 📘 eBooks & Planners
 
-### ✅ 1. *Start + Finish: A 7-Day Focus System*  
-A printable one-page focus system to help you stop quitting and finish projects.  
-[📥 Download Sample](#) | [🛒 Buy Now](#)
-
-### ✅ 2. Inspirational Quote Packs  
-30 high-quality AI-generated wallpapers with quotes for faith, mindset, or business.  
-[📥 View Collection](#) | [🛒 Buy Now](#)
-
-### ✅ 3. Journaling Templates  
-Beautiful PDF journals designed for clarity, reflection, and self-growth.  
-[📥 Preview](#) | [🛒 Buy Now](#)
+### ✅ 7-Day Focus System (PDF)
+A one-page focus tool to help you start and finish your creative projects.  
+💸 **Price:** $5  
+📥 [Buy Now on Gumroad](https://yourlink.com)
 
 ---
 
-> 💳 Payments & delivery via Gumroad, Payhip, or Etsy coming soon!
+### 💡 30 Inspirational Quote Wallpapers
+Beautiful AI-generated images with motivating quotes — ready for phones, tablets, or desktops.  
+🎁 **Free Download**  
+📥 [Get the Wallpapers](https://yourlink.com)
+
+---
+
+## 🧠 Templates & Tools
+- **Content Creation Planner**
+- **Goal Tracker Journal (AI Prompt-Based)**  
+Coming soon...
+
+---
+
+📌 All products are digital and instantly downloadable. Need help? [Contact me](/request/)
