@@ -1,18 +1,14 @@
 ---
 layout: default
 title: Services
-permalink: /services/
+permalink: /services.html
 ---
 
-# Our Services
+<h2>Services Offered</h2>
+<ul>
+  <li>💡 AI-Powered Quote Generation</li>
+  <li>📝 Personalized Journal Templates</li>
+  <li>🎨 Digital Wallpaper Design</li>
+</ul>
 
-We offer the following creative services:
-
-- 🎨 AI-Powered Image Packs
-- ✍️ Personalized Quote Design
-- 📄 Ebook & PDF Layout
-- 💡 Creative Content Strategy
-
-Want something custom?
-
-[Request a service →]({{ site.baseurl }}/request/)
+<p><a href="{{ site.baseurl }}/request.html">Request a Custom Service</a></p>

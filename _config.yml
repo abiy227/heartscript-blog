@@ -1,8 +1,3 @@
 title: Heart Script Studio
-description: Welcome to Heart Script Studio — AI-powered creative services and products.
-baseurl: "/heartscript-blog" # matches your repo name
-url: "https://abiy227.github.io"
-
-theme: minima
-plugins:
-  - jekyll-feed
+baseurl: "" # Do NOT put a slash here
+url: "https://yourusername.github.io" # replace with your GitHub Pages URL

@@ -1,9 +1,8 @@
 ---
 layout: default
 title: About
-permalink: /about/
+permalink: /about.html
 ---
 
-# About
-
-Heart Script Studio is your home for creativity, AI tools, and practical inspiration.
+<h2>About Heart Script Studio</h2>
+<p>We empower creators through custom quotes, digital tools, and minimalist designs.</p>

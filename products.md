@@ -1,40 +1,24 @@
 ---
 layout: default
 title: Products
-permalink: /products/
+permalink: /products.html
 ---
 
-# ✨ Our Digital Products
+<h2>Our Digital Products</h2>
 
-Explore a selection of digital tools and templates made with care.
-
-<div class="product-grid">
-
-  <div class="product-card">
-    <img class="product-image" src="/assets/products/faith-quotes.jpg" alt="Faith Quotes Pack">
-    <div class="product-content">
-      <div class="product-title">Faith-Based Quote Pack</div>
-      <div class="product-desc">30+ uplifting, printable quote images with a spiritual touch.</div>
-      <a href="/request/" class="product-btn">Request Now</a>
-    </div>
-  </div>
-
-  <div class="product-card">
-    <img class="product-image" src="/assets/products/journal-template.jpg" alt="Journal Templates">
-    <div class="product-content">
-      <div class="product-title">Journaling Templates</div>
-      <div class="product-desc">Guided pages to boost mindfulness and daily reflection.</div>
-      <a href="/request/" class="product-btn">Request Template</a>
-    </div>
-  </div>
-
-  <div class="product-card">
-    <img class="product-image" src="/assets/products/wallpaper-pack.jpg" alt="Wallpaper Pack">
-    <div class="product-content">
-      <div class="product-title">Inspirational Wallpapers</div>
-      <div class="product-desc">A curated set of mobile and desktop wallpapers with empowering messages.</div>
-      <a href="/request/" class="product-btn">Get Wallpapers</a>
-    </div>
-  </div>
-
+<div>
+  <h3>Faith Quote Pack</h3>
+  <img src="{{ site.baseurl }}/assets/products/faith-quotes.jpg" alt="Faith Quotes" width="300">
 </div>
+
+<div>
+  <h3>Journal Template</h3>
+  <img src="{{ site.baseurl }}/assets/products/journal-template.jpg" alt="Journal Template" width="300">
+</div>
+
+<div>
+  <h3>Wallpaper Pack</h3>
+  <img src="{{ site.baseurl }}/assets/products/wallpaper-pack.jpg" alt="Wallpaper Pack" width="300">
+</div>
+
+<p><a href="{{ site.baseurl }}/request.html">Request Custom Products</a></p>
